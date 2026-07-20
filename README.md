@@ -24,7 +24,7 @@ An ANN regression model that predicts house prices using property-related featur
 
 ---
 
-### 📌 Part 2 – Titanic Survival Prediction (Binary Classification)
+###  Part 2 – Titanic Survival Prediction (Binary Classification)
 
 An ANN binary classification model that predicts whether a passenger survived the Titanic disaster based on demographic and travel-related features.
 
