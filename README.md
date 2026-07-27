@@ -1,42 +1,16 @@
-#  Practical 01 – Artificial Neural Network (ANN)
+# Advance Data Science
 
 ## Overview
 
-This practical demonstrates the implementation of **Artificial Neural Networks (ANNs)** using **TensorFlow/Keras** for two different prediction tasks:
+This repository contains practical assignments and projects completed as part of the Advanced Data Science course. The work focuses on applying machine learning and deep learning concepts to solve real-world problems using industry-standard tools and libraries. Each practical demonstrates the complete workflow, from data preprocessing and model development to evaluation and result visualization.
 
-* **Part 1:** House Price Prediction (**Regression**)
-* **Part 2:** Titanic Survival Prediction (**Binary Classification**)
+## Objectives
 
-The objective is to understand the complete ANN workflow, including data preprocessing, feature scaling, model building, training, evaluation, and prediction for both regression and classification problems.
-
----
-
-## Parts Included
-
-###  Part 1 – House Price Prediction (Regression)
-
-An ANN regression model that predicts house prices using property-related features such as area, number of bedrooms, bathrooms, floors, and year built.
-
-**Evaluation Metrics**
-
-* Mean Absolute Error (MAE)
-* Root Mean Squared Error (RMSE)
-
----
-
-###  Part 2 – Titanic Survival Prediction (Binary Classification)
-
-An ANN binary classification model that predicts whether a passenger survived the Titanic disaster based on demographic and travel-related features.
-
-**Evaluation Metrics**
-
-* Accuracy
-* Confusion Matrix
-* Precision
-* Recall
-* F1-Score
-
----
+* Understand core concepts of data science and deep learning.
+* Develop practical skills in data preprocessing and feature engineering.
+* Build and evaluate machine learning and deep learning models.
+* Apply optimization and regularization techniques to improve model performance.
+* Gain hands-on experience with real-world datasets and analytical workflows.
 
 ## Technologies Used
 
@@ -45,47 +19,37 @@ An ANN binary classification model that predicts whether a passenger survived th
 * Pandas
 * NumPy
 * Scikit-learn
+* Matplotlib
 * Visual Studio Code
+* Jupyter Notebook
 
----
+## Key Learning Areas
 
-## Project Structure
-
-```text
-Practical 01 - ANN/
-│
-├── Part1_Regression/
-│   ├── HousePricePrediction.py
-│   ├── data.csv
-│   ├── output1.png
-│   ├── output2.png
-│   ├── output3.png
-│   └── README.md
-│
-├── Part2_Binary/
-│   ├── Binary_classification.py
-│   ├── titanic.csv
-│   ├── output.png
-│   └── README.md
-```
-
----
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Machine Learning
+* Deep Learning
+* Artificial Neural Networks (ANN)
+* Optimization Techniques
+* Regularization Methods
+* Model Evaluation
+* Data Visualization
 
 ## Learning Outcomes
 
-After completing this practical, I was able to:
-
-* Understand the architecture and working of Artificial Neural Networks.
-* Build ANN models for both regression and binary classification.
-* Perform data preprocessing and feature scaling.
-* Train and evaluate deep learning models using TensorFlow/Keras.
-* Apply appropriate evaluation metrics based on the prediction problem.
-
----
+* Apply data science concepts to practical problems.
+* Develop predictive models using machine learning and deep learning techniques.
+* Improve model performance through optimization and regularization.
+* Interpret and evaluate model performance using appropriate metrics.
+* Build a strong foundation in modern data science workflows.
 
 ## Author
 
-**Unnati Dabhade**
+**Unnati Vijay Dabhade**
 B.Tech Computer Engineering
-Advanced Data Science Laboratory
+Sanjivani College of Engineering, Kopargaon
 
+## License
+
+This repository is created for academic and educational purposes.
